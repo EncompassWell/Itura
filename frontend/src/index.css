@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+audio::-webkit-media-controls-panel {
+    background-color: #F86737;
+    border-radius: 20px;
+  }
